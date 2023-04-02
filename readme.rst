@@ -8,12 +8,12 @@ To develop a screen that allows user to sort the order of questions using drag a
 Tool Information
 *******************
 
-HTML
-CSS
-BOOTSTRAP
-jQuery
-AJAX
-CODEIGNEITER
+HTML, 
+CSS, 
+BOOTSTRAP, 
+jQuery, 
+AJAX, 
+CODEIGNEITER, 
 MYSQL
 
 
